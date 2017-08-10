@@ -1,0 +1,6 @@
+{
+	// Please visit https://github.com/hudochenkov/postcss-sorting#options for all plugin options
+
+	// Set true to sort on save every file with supported syntax
+	"sort-on-save": false
+}
