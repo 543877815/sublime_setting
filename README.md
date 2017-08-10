@@ -4,6 +4,7 @@
 
 运行gitshell，切换到sublime配置所在目录或～目录．
 
-执行git clone git@github.com:accountName/repositoryName.git
+执行git clone git@github.com:543877815/sublime_setting.git
 
 如果没有安装git，就去github上下载zip包，然后解压到sublime配置目录就行 
+
